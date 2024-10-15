@@ -564,6 +564,10 @@ ol {
   width: calc(33.33% - 10px);
   height: 311px !important;
 }
+.work__item.full__item {
+  width: 100vw;
+  height: 100vh !important;
+}
 .work__item .play-btn {
   display: inline-block;
   color: #ffffff;
