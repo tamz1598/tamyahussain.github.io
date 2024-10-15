@@ -2126,6 +2126,10 @@ ol {
     width: calc(50% - 10px);
   }
 
+ .work__item.full__item {
+    width: calc(50% - 10px);
+  }
+
   .work__item {
     width: calc(50% - 10px);
   }
@@ -2188,6 +2192,10 @@ ol {
   }
 
   .work__item.wide__item {
+    width: 100%;
+  }
+
+.work__item.full__item {
     width: 100%;
   }
 
